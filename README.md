@@ -1,11 +1,17 @@
-## Welcome to GitHub Pages
+## Overview
 
-You can use the [editor on GitHub](https://github.com/PaulFMMuller/paulfmmuller.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, and welcome to my website ! I'm Paul Muller, a PhD Candidate at Deepmind (Via a CIFRE contract) at the Paris Office, and Universite Gustave Eiffel. My interests widely encompass the interactions between Multiagent Reinforcement Learning and Game Theory (Which includes Mean-Field Games), real world applications thereof (eg. Economy), and AI ethics following a Straussian and MacIntyrian vision. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Papers
 
-### Markdown
 
+### Frequently Asked Questions
+
+```
+- Test
+- Test 2
+- Test 344
+```
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
