@@ -7,11 +7,11 @@ Hi, and welcome to my website ! I'm Paul Muller, a PhD Candidate at Deepmind (Vi
 
 ### Frequently Asked Questions
 
-```
 - Test
 - Test 2
 - Test 344
-```
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
