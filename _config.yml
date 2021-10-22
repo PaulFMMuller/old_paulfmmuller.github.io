@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Paul Muller, PhD Candidate
 description: [A short description of your site's purpose]
+site.github.is_user_page: False
