@@ -21,11 +21,11 @@ Unfortunately, Cifre PhDs have been frozen for the current future. If this track
 
 - Are you available for a call to discuss [non-research-project related questions] ?
 
-When call requests were rare, I happily did such calls, but given the current demand, accepting would necessarily mean selecting some people over others, or neglecting work, neither of which I am comfortable doing. The purpose of this section is to pre-emptively answer most questions that could be asked during such a call. If a question happened not to be answered here, don't hesitate to ask it to me, I will happily complete the website and send you my answer. (Many of these questions were asked to me during an October-question-surge)
+When call requests were rare, I happily obliged, but given the current demand, accepting would necessarily mean selecting some people over others, or neglecting work, neither of which I am comfortable doing. The purpose of this section is to pre-emptively answer most questions that could be asked during such a call. If a question happened not to be answered here, don't hesitate to ask it to me, I will happily complete the website and send you my answer. (Many of these questions were asked to me during an October-question-surge)
 
 - Are you available for a call to discuss [research-project related questions] ?
 
-If the project is related to my interests - if only tenuously (Single-agent RL being amond my interests) -, and I have free time, with pleasure !
+If the project is related to my interests - even only tenuously (Single-agent RL being among my interests) -, and I have free time, with pleasure !
 
 - Can you recommend me ?
 
