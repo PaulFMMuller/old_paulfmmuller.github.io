@@ -11,7 +11,7 @@ Given the increasing volume of questions I have been receiving from curious and 
 
 - How did you find a position at Deepmind ?
 
-Through, I must admit, sheer luck. I received a PhD offer from a French automotive company in Summer 2018, but had doubts regarding my future: I wanted to work on creating Intelligence, advancing our understanding of Humanity and the fundamentals operating our behavior. I expressed my doubts to Bilal Piot (Whom I had met once at a party at Supelec, and whom I must thank once again), a Deepmind Research Scientist, who confirmed them, advised me not to take the offer, and asked for my resume. The rest quickly came together, and after many interviews and nerve-wracks, here I was :) 
+Through, I must admit, sheer luck. I received a PhD offer from a French automotive company in Summer 2018, but had doubts regarding my future: I wanted to work on creating Intelligence, advancing our understanding of Humanity and the fundamentals operating our behavior. I expressed my doubts to Bilal Piot (Whom I had met at Supelec, and whom I must thank once again), a Deepmind Research Scientist, who confirmed them, advised me not to take the offer, and asked for my resume. The rest quickly came together, and after many interviews and nerve-wracks, here I was :) 
 
 
 - I cannot see PhD offers at Deepmind, how comes ?
