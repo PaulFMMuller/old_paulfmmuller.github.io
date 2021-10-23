@@ -4,6 +4,8 @@ Hi, and welcome to my website ! I'm Paul Muller, a PhD Candidate at Deepmind (Vi
 
 ### Highlighted Publications
 
+- ** A Generalized Training Approach for Multiagent Learning **
+- 
 
 ### Frequently Asked Questions
 
