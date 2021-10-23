@@ -23,6 +23,10 @@ It's really great. Research is a sometimes difficult domain. One makes hypothese
 
 This is a difficult question, and my answer will have to remain confined to my own domain. Even there, it will probably be heavily affected by my own vision of research, and shaped by my work ethic, my surroundings, my preferences, my chosen topics, and certainly many other factors. As written in the question just above, doing a PhD can, at times, be difficult.
 
+A first step would be identifying why I chose to do a PhD. During my internship at Schlumberger in Beijing, under Francisco Gómez and Cheolkyun (Charles) Jeong, I was initiated to research, and Cheolkyun often gently encouraged me to go towards research positions and apply for a PhD at his alma-mater, Stanford. Initially reluctant, as time grew by, the idea stuck, and by the end of 2017, I had decided I wanted to do a PhD. I discovered Reinforcement Learning, and decided it was time to make a choice, and that that one was as great as any, potentially even better than any ! I then started looking for one. After ~30 rejections (Including by Google Brain, OpenAI, Facebook, Ascent Robotics and Softbanks), I got a PhD offer from an automotive company, but at the same time, started interviewing with Deepmind. One must not live with regrets - I declined, with sadness, the automotive PhD offer to chase after the Deepmind one. While searching for a PhD, I worked on several research projects to improve my understanding of RL. 
+
+I then stepped in to the world of research, an initially quite difficult one. 
+
 One must learn to go beyond the (very strong) disappointment that comes with failed and early-aborted ideas, and the despair that accompanies relevance uncertainty of one's work (Since judging the quality of anyone's research is difficult, and it is very easy to under-evaluate one's own contributions, since they seem trivially obvious once they have been discovered / created, one can easily enter the terrible spiral of over-evaluating others' research ("What they're doing is so great, I could never do that !") and under-evaluating one's own research ("My work is so simple, barely worth any attention or credit :( "). The truth is - everyone feels like that at some point, and especially at the beginning of their research career ! Don't worry about it, your work is very likely to be novel and much more interesting than you suspect ! Speaking with other researchers about what you are doing is a great way to understand what you are doign in a deeper way, and get a better appreciation for its complexity and interest !) and domain choice uncertainty (Will my domain be "the right one" ? It's impossible to know in advance, that's why we're doing research ! ;P Whatever you do, provided it pushes the boundaries of knowledge, will have value in the world of research :) )
 
 These obstacles are difficult to go beyond. Many people prefer aborting their research careers because they are not comfortable with them, and I have full empathy with them - these obstacles are (arguably a big) part of the bad side of doing research, and if the good side thereof doesn't make up for this bad side (Which is a very personal appreciation), then one should, in a very utilitarian way, find a domain that will have higher happiness-providing properties.
@@ -42,6 +46,11 @@ To stop with this rant and be constructive, I would suggest one to attend the MV
 - I cannot see PhD offers at Deepmind, how comes ?
 
 Unfortunately, Cifre PhDs have been frozen for the current future. If this track is one that could interest you (I would advise strongly considering it, as research isn't everyone's cup of tea - 99% perspiration, 1% results), do not hesitate to reach out to my advisors Karl Tuyls ([surname][name] at deepmind dot com) or Romuald Elie (relie at deepmind dot com). 
+
+
+- Do you know what Research Engineering interns do ?
+
+I can't say anything more accurate than "work on research engineering projects"; there's a myriad of them at Deepmind, so each internship experience is unique !
 
 
 - Are you available for a call to discuss [non-research-project related questions] ?
